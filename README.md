@@ -1,4 +1,4 @@
-# digitalliteracyproject
+### Digital Literacy Project
 The Digital Literacy Project is designed to develop essential digital skills required for students in today’s technology-driven world. The project focuses on building awareness about the effective, safe, and responsible use of digital tools and online platforms.
 
 It consists of five tasks that cover different aspects of digital literacy. These include creating an infographic to explain digital literacy concepts, building a professional digital portfolio using platforms like GitHub and LinkedIn, exploring coding and collaboration tools, practising professional email communication, and understanding cybercrime through a case study and prevention strategies.
