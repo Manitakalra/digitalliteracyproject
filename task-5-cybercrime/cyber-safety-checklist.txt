@@ -1,0 +1,13 @@
+DO’s
+Use strong passwords
+Enable two-factor authentication
+Verify website URLs
+Use secure networks
+Keep software updated
+
+ DON’Ts
+Don’t share OTP or passwords
+Don’t click unknown links
+Don’t trust suspicious emails
+Don’t download unknown files
+Don’t use public Wi-Fi for banking
